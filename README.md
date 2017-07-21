@@ -28,6 +28,9 @@ mongod.exe
 https://robomongo.org/download
 
 **Create new mongo connection**
- 
 * Host: localhost
 * Port: 27017
+
+** Starting the application
+* gradle build
+* gradle bootRun 
