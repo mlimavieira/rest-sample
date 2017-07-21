@@ -31,6 +31,6 @@ https://robomongo.org/download
 * Host: localhost
 * Port: 27017
 
-** Starting the application **
+**Starting the application**
 * gradle build
 * gradle bootRun 
